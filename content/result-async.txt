@@ -1,0 +1,5 @@
+Here is a file made up of a combination of the two existing files named first.txt and second.txt
+
+This is the first text file. --- This is the second text file.
+
+This content was created by Async callback functions. They waited for the data to arrive before attempting to write the file to disk.
